@@ -37,7 +37,7 @@ __Word of warning__: There is a large design component in visualisation and it c
 
 4. "Data is beautiful" subreddit. [[link]](https://www.reddit.com/r/dataisbeautiful/comments/8viwek/oc_world_income_mountains_19502015_animated/)
 
-5. A visual introduction to Machine Learning. [[link]](www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+5. A visual introduction to Machine Learning. [[link]](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 6. [[distill.pub]](https://distill.pub)
 **You find plenty of interesting great visual explanations here (and good writing!) – for the educational / sciency people.**
