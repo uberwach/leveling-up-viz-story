@@ -26,7 +26,7 @@ __Word of warning__: There is a large design component in visualisation and it c
 
 ## Sources
 
-1. The Python Visualization Landscape. Jake VanderPlas. PyCon 2017. [[video]](https://www.youtube.com/watch?v=FytuB8nFHPQ
+1. The Python Visualization Landscape. Jake VanderPlas. PyCon 2017. [[video]](https://www.youtube.com/watch?v=FytuB8nFHPQ)
 **A good overview about the visualization libraries of Python in 2017.**
 
 2. :star: Storytelling with Data. Cole Nussbaumer Knaflic. Wiley. [[book]](https://www.amazon.com/gp/product/1119002257) [[page]](https://www.storyingtellingwithdata.com) [[talk]](https://www.youtube.com/watch?v=8EMW7io4rSI)
